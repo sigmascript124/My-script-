@@ -1,4 +1,3 @@
--- DELTA ULTRA v2.8 — РАБОЧИЙ ДЛЯ ТЕЛЕФОНА
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
@@ -369,3 +368,4 @@ loadingFrame:Destroy()
 modeFrame.Visible = true
 
 print("DELTA ULTRA v2.8 ЗАГРУЖЕН! FLY — тапай и держи!")ЕТИ ТАПАМИ!")
+
