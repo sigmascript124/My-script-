@@ -624,7 +624,7 @@ RestoreButton.BackgroundColor3 = Color3.fromRGB(0, 120, 215)
 RestoreButton.Text = "Ultra Delta v2"
 RestoreButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 RestoreButton.Font = Enum.Font.GothamBold
-Restore RestoreButton.TextSize = 12
+RestoreButton.TextSize = 12
 RestoreButton.Visible = false
 RestoreButton.Parent = ScreenGui
 
